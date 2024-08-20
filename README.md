@@ -21,4 +21,5 @@ Prerequisites:
 Java Development Kit (JDK)
 Apache Maven
 A preferred IDE IntelliJ IDEA
-WebDriver for your desired browser  ChromeDriver
+web driver manager 
+
