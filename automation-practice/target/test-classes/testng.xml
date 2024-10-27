@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="AutomationPractice Suite">
+    <test name="Book Tests">
+        <classes>
+            <class name="tests.CheckBookExist"/>
+            <class name="tests.CheckAddingBookToCart"/>
+            <class name="tests.CheckMoveToShoppingCard"/>
+            <class name="tests.CheckItemAddedWithDetails"/>
+            <class name="tests.CheckProceedToCheckout"/>
+            <class name="tests.CheckBillingDetails"/>
+        </classes>
+    </test>
+</suite>
